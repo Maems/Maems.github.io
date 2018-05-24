@@ -1,5 +1,8 @@
 ---
-title: "My Website"
+title: "Mi página"
 ---
 
-Hello, Website!
+Aquí, lo necesario para replicar el póster
+
+## Bienvenidos.
+

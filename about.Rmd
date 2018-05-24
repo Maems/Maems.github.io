@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "Acerca de Éste Sitio"
 ---
 
-More about this website.
+Ésta página es creada con la intención de sustentar el estudio de regresión lineal,expresada por medio en un póster en la Universidad Nacional de Colombia segundo semestre 2018; apoyados por la colaboración del profesor freddy hernandez barajas.
